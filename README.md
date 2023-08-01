@@ -1,4 +1,4 @@
-# Step-by-step-Solutions-for-MML-Book
+# Step-by-step Solutions for MML Book
 Detailed Solutions for the practice problems in Mathematics in Machine Learning by Marc Peter Deisenroth 
 
 The motivation for this solution sheet is to strengthen my mathematics fundamentals, particularly when it comes to ML/Stat methods. Additionally, online resources for mathematical concepts and practice problems frequently skim over important steps which end up hampering my understanding of them. Therefore, I wanted to show not only the solution to the problem but all of the intermediate steps and thinking process that led to the solution.
@@ -8,4 +8,4 @@ You can find a concise version of the answers on https://github.com/ilmoi/MML-Bo
 This is a self-study work in progress.
 
 ## Solutions by Chapter 
-* [Chapter 5: Vector Calculus](Solutions by Chapter/Chapter 5.md)
+* [Chapter 5: Vector Calculus](https://github.com/seanzhou1207/Step-by-step-Solutions-for-MML-Book/blob/e6a8c3b8f978e86d1c077b209832e3c887f93061/Solutions%20by%20Chapter/Chapter%205.md)
