@@ -1,5 +1,5 @@
 # Step-by-step Solutions for MML Book
-Detailed Solutions for the practice problems in Mathematics in Machine Learning by Marc Peter Deisenroth 
+Detailed Solutions for the practice problems in Mathematics for Machine Learning by Marc Peter Deisenroth 
 
 The motivation for this solution sheet is to strengthen my mathematics fundamentals, particularly when it comes to ML/Stat methods. Additionally, online resources for mathematical concepts and practice problems frequently skim over important steps which end up hampering my understanding of them. Therefore, I wanted to show not only the solution to the problem but all of the intermediate steps and thinking process that led to the solution.
 
