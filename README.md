@@ -8,4 +8,4 @@ You can find a concise version of the answers on https://github.com/ilmoi/MML-Bo
 This is a self-study work in progress.
 
 ## Solutions by Chapter 
-* [Chapter 5: Vector Calculus](https://github.com/seanzhou1207/Step-by-step-Solutions-for-MML-Book/blob/e6a8c3b8f978e86d1c077b209832e3c887f93061/Solutions%20by%20Chapter/Chapter%205.md)
+* [Chapter 5: Vector Calculus](https://github.com/seanzhou1207/Step-by-step-Solutions-for-MML-Book/blob/main/Solutions%20by%20Chapter/Chapter%205%20Vector%20Calculus.ipynb)
